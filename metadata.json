@@ -1,0 +1,7 @@
+{
+  "name": "Remix: VELATRA Coach #1",
+  "description": "Premium multi-club management platform for fitness professionals and gyms. Manage training programs, member tracking, and performance analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
